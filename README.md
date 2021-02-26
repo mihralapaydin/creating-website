@@ -10,3 +10,4 @@ When you click the home button which is on navbar, displaying a comment forum is
 ## HTML
 
 Not just website_home.html file but all html files that are uploaded include same specific information in the <head> tag about the web page. 
+![robin sherbatski](https://github.com/mihralapaydin/creating-website/blob/master/background/robin.jpeg)
